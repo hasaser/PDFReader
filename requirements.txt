@@ -1,0 +1,1 @@
+numpy PyQt5 PyMuPDF Pillow
